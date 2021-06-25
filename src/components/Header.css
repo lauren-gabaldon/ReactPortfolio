@@ -1,0 +1,26 @@
+header {
+  font-size: 2rem;
+  width: 100%;
+  display: flex;
+  justify-content: stretch;
+  padding-left: 37.5%;
+  flex-direction: row;
+  align-items: center;
+}
+header div:first-child {
+  margin-right: 30px;
+}
+header img {
+  height: 10em;
+  width: auto;
+  display: flex;
+  flex: 0 0 0;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(10, 171, 173);
+  color: tan;
+  box-sizing: 65px;
+}

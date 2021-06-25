@@ -1,0 +1,11 @@
+section {
+  font-size: 25px;
+  text-decoration: none;
+}
+h2 {
+  color: goldenrod;
+  font-size: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

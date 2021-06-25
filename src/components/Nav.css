@@ -1,0 +1,11 @@
+nav {
+  display: flex;
+  justify-content: flex-end;
+  text-decoration: none;
+}
+nav a {
+  text-decoration: none;
+  color: rgb(255, 166, 0);
+  font-size: 2rem;
+  margin: 2%;
+}

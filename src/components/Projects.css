@@ -1,0 +1,29 @@
+.projects {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.projects img {
+  height: 30rem;
+  width: 30rem;
+}
+#first-image {
+  height: 35rem;
+  width: 35rem;
+}
+
+.projects a {
+  display: flex;
+  flex: 0 0 50%;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+h2 {
+  color: goldenrod;
+  font-size: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
